@@ -299,14 +299,8 @@ figure {
 }
 
 table {
-    border-collapse: collapse;
     caption-side: bottom;
-    display: grid;
-    width: 100%;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 100px;
-    font-size: 18px;
-    border: 1px solid #000;
+    border-collapse: collapse;
 }
 
 caption {
@@ -655,7 +649,7 @@ progress {
     .container,
     .container-md,
     .container-sm {
-        max-width: 944px;
+        max-width: 720px;
     }
 }
 
@@ -7900,7 +7894,7 @@ fieldset:disabled .btn {
 }
 
 .bg-white {
-    background-color: #f1d209 !important;
+    background-color: #fff !important;
 }
 
 .bg-transparent {

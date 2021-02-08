@@ -1,1 +1,1 @@
-{"files":{},"cs-for-overrides":"assets/css/main.css"}
+{"files":{"index.html":{"frameworks":["rebuyDemo","pg.insight.events","pg.css.grid","pg.image.overlay","pg.code-validator","pg.project.items","pg.asset.manager","pg.html","pg.components"],"last_page_width":1024}},"cs-for-overrides":"assets/css/main.css","breakpoints":["420px","480px","576px","767px","769px","993px","1023px","1200px","1400px"],"frameworks":["rebuyDemo","pg.insight.events","pg.css.grid","pg.image.overlay","pg.code-validator","pg.project.items","pg.asset.manager","pg.html","pg.components"]}
