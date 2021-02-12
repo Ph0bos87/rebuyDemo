@@ -1081,7 +1081,7 @@ ol {
 
 .section {
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 100px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -8582,11 +8582,4 @@ blockquote .shape {
 
 .padding_gallery {
     padding: 10px;
-}
-
-.testimonial-left {
-    border: 10px solid #111111;
-    width: 100%;
-    height: 300px;
-    padding: 20px;
 }
