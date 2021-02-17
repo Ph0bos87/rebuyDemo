@@ -1,6 +1,5 @@
 /*
 Template Name: Rebuy Stars
-Author: Future of Technology - FOT
 */
 
 (function () {
@@ -68,6 +67,5 @@ Author: Future of Technology - FOT
     // WOW active
     new WOW().init();
 
-
-    
 })();
+

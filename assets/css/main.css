@@ -1083,8 +1083,6 @@ ol {
     padding-top: 70px;
     padding-bottom: 70px;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
     background-color: #000000;
 }
 
@@ -1113,7 +1111,6 @@ ol {
     font-size: 35px;
     margin-bottom: 18px;
     line-height: 45px;
-    text-transform: capitalize;
     position: relative;
     font-weight: 700;
     padding-bottom: 14px;
@@ -1310,8 +1307,8 @@ ol {
 
 .button .btn {
     display: inline-block;
-    text-transform: capitalize;
-    font-size: 14px;
+    text-transform: uppercase;
+    font-size: 16px;
     font-weight: 500;
     padding: 15px 30px;
     color: #fff;
@@ -1410,6 +1407,7 @@ ol {
 
 .sticky .navbar .navbar-nav .nav-item a.active {
     color: #f1d209;
+    background-color: #000000;
 }
 
 .sticky .navbar .navbar-toggler .toggler-icon {
@@ -1524,13 +1522,13 @@ ol {
 
 .navbar-nav .nav-item {
     position: relative;
-    margin-left: 38px;
+    margin-left: 24px;
 }
 
 .navbar-nav .nav-item a {
     font-size: 18px;
     font-weight: 400;
-    color: #fdfdfd;
+    color: #FFFFFF;
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     padding: 30px 0;
@@ -1557,8 +1555,8 @@ ol {
 .navbar-nav .nav-item a::before {
     content: '';
     position: absolute;
-    bottom: 0;
-    height: 3px;
+    bottom: 20px;
+    height: 1px;
     background: #a61474;
     z-index: -1;
     opacity: 0;
@@ -1966,8 +1964,8 @@ ol {
     position: relative;
     height: 100%;
     width: 100%;
-    background-image: url('/assets/images/slider/slider_club.jpg');
     background-size: cover;
+    background-image: url('../images/slider/slider_club.jpg');
 }
 
 .hero-area.style2 .home-slider {
@@ -1997,6 +1995,24 @@ ol {
     border: 10px solid #111111;
     overflow: hidden;
     height: 430px;
+}
+
+.hero-area.style2 .hero-image-landing {
+    position: relative;
+    bottom: -120px;
+    right: 0;
+    border: 10px solid #111111;
+    overflow: hidden;
+    height: 275px;
+}
+
+.hero-area.style2 .hero-image-landing2 {
+    position: relative;
+    bottom: -110px;
+    right: 0;
+    border: 10px solid #111111;
+    overflow: hidden;
+    height: 275px;
 }
 
 .hero-area.style2 .tns-controls {
@@ -3022,9 +3038,9 @@ ol {
 
 .faq-area .single-faq {
     margin-bottom: 30px;
-    background: #333333;
+    background: #111111;
     padding: 40px;
-    border: 1px solid #eee;
+    border: 1px solid #f1d209;
     border-radius: 6px;
 }
 
@@ -3063,14 +3079,27 @@ ol {
 .latest-news-area .single-news .image {
     position: relative;
     overflow: visible;
-    border-radius: 6px 6px 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
 }
 
 .latest-news-area .single-news .image img {
     height: auto;
-    width: auto;
+    width: 145px;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.latest-news-area .gallery .image img {
+    height: auto;
+    width: 300px;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .latest-news-area .single-news .content-body {
@@ -3931,20 +3960,18 @@ blockquote .shape {
    Clients CSS
 ======================================== */
 .client-logo-section {
-    background: #F9FAFF;
-    padding: 50px 0;
+    padding: 30px 0;
 }
 
 .client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo {
     padding: 10px;
     text-align: center;
-    margin: auto;
 }
 
 .client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo img {
     max-width: 220px;
     width: 100%;
-    opacity: .3;
+    opacity: .6;
     -webkit-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
 }
@@ -3958,14 +3985,13 @@ blockquote .shape {
 ======================================== */
 .apply-process {
     background-color: #111111;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 10%;
+    padding-left: 1%;
 }
 
 .apply-process .process-item {
     position: relative;
     padding-right: 0;
+    width: 200px;
 }
 
 .apply-process .process-item i {
@@ -6020,7 +6046,7 @@ blockquote .shape {
 /* Tablet Screen */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .section {
-        padding: 60px 0px;
+        padding: 60px 0px 60px 5%;
     }
 
     .section-title {
@@ -6509,7 +6535,7 @@ blockquote .shape {
 @media only screen and (max-width: 767px) {
     .section {
         padding-bottom: 50px;
-        padding-left: 5%;
+        padding-left: 0;
     }
 
     .section-title {
@@ -7760,9 +7786,12 @@ blockquote .shape {
 .error-area {
     height: 100vh;
     text-align: center;
-    max-width: 800px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
+    background-image: -webkit-linear-gradient(90deg, rgb(0, 0, 0) 48.4018%, rgb(0, 0, 0) 48.4018%);
+    background-size: cover;
+    background-position: center center;
 }
 
 .d-table {
@@ -7922,7 +7951,7 @@ blockquote .shape {
     padding: 15px;
     border-radius: 6px;
     overflow: hidden;
-    width: 600px;
+    width: 500px;
 }
 
 .modal .login-modal-main .heading h3 {
@@ -8257,7 +8286,6 @@ blockquote .shape {
     font-size: 19px;
     font-weight: 600;
     position: relative;
-    text-transform: capitalize;
     margin-bottom: 30px;
     font-weight: 500;
 }
@@ -8352,6 +8380,7 @@ blockquote .shape {
     height: 60px;
     margin-top: 15px;
     width: 100%;
+    letter-spacing: 2px;
 }
 
 .rebuy_gold {
@@ -8407,8 +8436,25 @@ blockquote .shape {
     }
 }
 
+@media (min-width:1400px) {
+    .align_icons_bonusing {
+        margin-left: 37%;
+    }
+}
+
+@media (min-width:769px) and (max-width:1399px) {
+    .align_icons_bonusing {
+        margin-left: 35%;
+    }
+}
+
+@media (max-width:768px) {
+    .align_icons_bonusing {
+        margin-left: 33%;
+    }
+}
+
 .align_covid_icons {
-    margin-left: 30%;
 }
 
 @media (min-width:1400px) {
@@ -8425,7 +8471,7 @@ blockquote .shape {
 
 @media (max-width:768px) {
     .align_icons_homepage {
-        margin-left: 33%;
+        margin-left: 35%;
     }
 }
 
@@ -8435,8 +8481,6 @@ blockquote .shape {
 }
 
 .distance_column_footer {
-    margin-right: 25%;
-    margin-left: 8%;
 }
 
 .about-us_h3 {
@@ -8635,6 +8679,18 @@ blockquote .shape {
     border-bottom: 5px solid #a61474;
 }
 
+.bonus_card_img {
+    padding: 15px;
+    background-image: url('../images/bonus_card/bonusing_vz.jpg');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-right: 1px solid #a61474;
+    margin-bottom: 55%;
+}
+
 .current_rewards {
     padding: 15px;
     background-image: url('../images/nagradne_igre/RebuyStars_zAbODOVAsICUoDVEZIfICU.jpg');
@@ -8716,8 +8772,132 @@ blockquote .shape {
     float: right;
 }
 
+@media (min-width:768) {
+    .align_button_right {
+        float: right;
+    }
+}
+
 .table_11C_3R {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 60px 60px 60px;
+}
+
+/* * Rebuy Jackpot CSS * */
+.rb-jackpots__wrapper {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rb-jackpots {
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.rb-jackpot {
+    margin: 0 auto;
+    width: 220px;
+    text-align: left;
+    padding: 0 10px;
+    margin-right: 2px;
+    display: inline-block;
+}
+
+.rb-jackpot__label {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-transform: uppercase;
+    font-weight: 550;
+    margin-bottom: 2px;
+}
+
+.rb-jackpot__value {
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+    border-image-slice: 1;
+    margin-bottom: 22px;
+    text-align: right;
+    padding: 11px 8px;
+    font-size: 20px;
+    height: 43px;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    font-family: monospace;
+}
+
+.rb-jackpot--rebuy .rb-jackpot__label {
+    background-image: -webkit-linear-gradient(top, purple, pink, purple 50%, pink);
+    background-image: -o-linear-gradient(top, purple, pink, purple 50%, pink);
+    background-image: linear-gradient(to bottom, purple, pink 30%, purple, pink);
+    font-size: 16px;
+}
+
+.rb-jackpot--gold .rb-jackpot__label {
+    background-image: -webkit-linear-gradient(top, #946B00, #FFFF6A 50%, gold, #FFFF6A);
+    background-image: -o-linear-gradient(top, #946B00, #FFF76A 50%, gold, #FFFF6A);
+    background-image: linear-gradient(to bottom, #946B00, #FFF76A 30%, gold, #FFFF6A);
+    font-size: 16px;
+}
+
+.rb-jackpot--silver .rb-jackpot__label {
+    background-image: -webkit-linear-gradient(TOP, GREY, #EFEFEF 50%, GREY);
+    background-image: -o-linear-gradient(TOP, GREY, #EFEFEF 50%, GREY);
+    background-image: linear-gradient(to bottom, GREY, #EFEFEF 30%, GREY, #EFEFEF);
+    font-size: 16px;
+}
+
+.rb-jackpot--bronze .rb-jackpot__label {
+    background-image: -webkit-linear-gradient(TOP, #CA822C, #F6C656 50%, #CA822C);
+    background-image: -o-linear-gradient(TOP, #CA822C, #F6C656 50%, #CA822C);
+    background-image: linear-gradient(to bottom,
+                #CA822C, #F6C656 30%, #CA822C, #F6C656);
+    font-size: 16px;
+}
+
+.rb-jackpot--rebuy .rb-jackpot__value {
+    border-image-source: linear-gradient(90deg, rgba(185, 0, 225, 1) 0%, rgba(168, 0, 219, 1) 25%, rgba(243, 192, 249, 1) 50%, rgba(104, 0, 131, 1) 75%, rgba(156, 88, 176, 1) 100%);
+    background-color: #333333;
+}
+
+.rb-jackpot--gold .rb-jackpot__value {
+    border-image-source: linear-gradient(90deg, rgba(254, 202, 41, 1) 0%, rgba(198, 148, 2, 1) 25%, rgba(254, 246, 102, 1) 50%, rgba(147, 108, 3, 1) 75%, rgba(248, 232, 40, 1) 100%);
+    background-color: #333333;
+}
+
+.rb-jackpot--silver .rb-jackpot__value {
+    border-image-source: linear-gradient(90deg, rgba(210, 211, 213, 1) 0%, rgba(160, 161, 165, 1) 25%, rgba(234, 235, 237, 1) 50%, rgba(134, 135, 139, 1) 75%, rgba(221, 221, 221, 1) 100%);
+    background-color: #333333;
+}
+
+.rb-jackpot--bronze .rb-jackpot__value {
+    border-image-source: linear-gradient(90deg, rgba(249, 166, 40, 1) 0%, rgba(191, 122, 44, 1) 25%, rgba(248, 198, 103, 1) 50%, rgba(142, 86, 44, 1) 75%, rgba(239, 194, 48, 1) 100%);
+    background-color: #333333;
+}
+
+.virtual-tour {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #111111;
+}
+
+@media (min-width:768) and (max-width:992px) {
+    .virtual-tour {
+        width: 90%;
+        padding-right: 40px;
+    }
+}
+
+.homepage-icons-distance {
+    margin-left: 10px;
+}
 }

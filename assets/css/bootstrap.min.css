@@ -685,7 +685,7 @@ progress {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1320px;
+        max-width: 1380px;
     }
 }
 
@@ -4549,6 +4549,7 @@ fieldset:disabled .btn {
 
     .navbar-expand-lg .navbar-collapse {
         display: flex !important;
+        margin-top: -50px;
     }
 
     .navbar-expand-lg .navbar-toggler {
