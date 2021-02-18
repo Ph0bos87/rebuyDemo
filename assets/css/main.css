@@ -1111,7 +1111,6 @@ ol {
     font-size: 35px;
     margin-bottom: 18px;
     line-height: 45px;
-    text-transform: capitalize;
     position: relative;
     font-weight: 700;
     padding-bottom: 14px;
@@ -1408,6 +1407,7 @@ ol {
 
 .sticky .navbar .navbar-nav .nav-item a.active {
     color: #f1d209;
+    background-color: #000000;
 }
 
 .sticky .navbar .navbar-toggler .toggler-icon {
@@ -1522,13 +1522,13 @@ ol {
 
 .navbar-nav .nav-item {
     position: relative;
-    margin-left: 38px;
+    margin-left: 24px;
 }
 
 .navbar-nav .nav-item a {
     font-size: 18px;
     font-weight: 400;
-    color: #fdfdfd;
+    color: #FFFFFF;
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     padding: 30px 0;
@@ -1555,8 +1555,8 @@ ol {
 .navbar-nav .nav-item a::before {
     content: '';
     position: absolute;
-    bottom: 0;
-    height: 3px;
+    bottom: 20px;
+    height: 1px;
     background: #a61474;
     z-index: -1;
     opacity: 0;
@@ -1964,8 +1964,8 @@ ol {
     position: relative;
     height: 100%;
     width: 100%;
-    background-image: url('/assets/images/slider/slider_club.jpg');
     background-size: cover;
+    background-image: url('../images/slider/slider_club.jpg');
 }
 
 .hero-area.style2 .home-slider {
@@ -1995,6 +1995,24 @@ ol {
     border: 10px solid #111111;
     overflow: hidden;
     height: 430px;
+}
+
+.hero-area.style2 .hero-image-landing {
+    position: relative;
+    bottom: -120px;
+    right: 0;
+    border: 10px solid #111111;
+    overflow: hidden;
+    height: 275px;
+}
+
+.hero-area.style2 .hero-image-landing2 {
+    position: relative;
+    bottom: -110px;
+    right: 0;
+    border: 10px solid #111111;
+    overflow: hidden;
+    height: 275px;
 }
 
 .hero-area.style2 .tns-controls {
@@ -3942,20 +3960,18 @@ blockquote .shape {
    Clients CSS
 ======================================== */
 .client-logo-section {
-    background: #F9FAFF;
-    padding: 50px 0;
+    padding: 30px 0;
 }
 
 .client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo {
     padding: 10px;
     text-align: center;
-    margin: auto;
 }
 
 .client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo img {
     max-width: 220px;
     width: 100%;
-    opacity: .3;
+    opacity: .6;
     -webkit-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
 }
@@ -3969,14 +3985,13 @@ blockquote .shape {
 ======================================== */
 .apply-process {
     background-color: #111111;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 10%;
+    padding-left: 1%;
 }
 
 .apply-process .process-item {
     position: relative;
     padding-right: 0;
+    width: 200px;
 }
 
 .apply-process .process-item i {
@@ -7936,7 +7951,7 @@ blockquote .shape {
     padding: 15px;
     border-radius: 6px;
     overflow: hidden;
-    width: 600px;
+    width: 500px;
 }
 
 .modal .login-modal-main .heading h3 {
@@ -8757,6 +8772,12 @@ blockquote .shape {
     float: right;
 }
 
+@media (min-width:768) {
+    .align_button_right {
+        float: right;
+    }
+}
+
 .table_11C_3R {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -8779,7 +8800,7 @@ blockquote .shape {
 
 .rb-jackpot {
     margin: 0 auto;
-    width: 290px;
+    width: 220px;
     text-align: left;
     padding: 0 10px;
     margin-right: 2px;
@@ -8799,14 +8820,14 @@ blockquote .shape {
 
 .rb-jackpot__value {
     display: block;
-    border-width: 6px;
+    border-width: 1px;
     border-style: solid;
     border-image-slice: 1;
     margin-bottom: 22px;
     text-align: right;
     padding: 11px 8px;
-    font-size: 30px;
-    height: 60px;
+    font-size: 20px;
+    height: 43px;
     line-height: 1em;
     color: #fff;
     font-weight: 700;
@@ -8817,18 +8838,21 @@ blockquote .shape {
     background-image: -webkit-linear-gradient(top, purple, pink, purple 50%, pink);
     background-image: -o-linear-gradient(top, purple, pink, purple 50%, pink);
     background-image: linear-gradient(to bottom, purple, pink 30%, purple, pink);
+    font-size: 16px;
 }
 
 .rb-jackpot--gold .rb-jackpot__label {
     background-image: -webkit-linear-gradient(top, #946B00, #FFFF6A 50%, gold, #FFFF6A);
     background-image: -o-linear-gradient(top, #946B00, #FFF76A 50%, gold, #FFFF6A);
     background-image: linear-gradient(to bottom, #946B00, #FFF76A 30%, gold, #FFFF6A);
+    font-size: 16px;
 }
 
 .rb-jackpot--silver .rb-jackpot__label {
     background-image: -webkit-linear-gradient(TOP, GREY, #EFEFEF 50%, GREY);
     background-image: -o-linear-gradient(TOP, GREY, #EFEFEF 50%, GREY);
     background-image: linear-gradient(to bottom, GREY, #EFEFEF 30%, GREY, #EFEFEF);
+    font-size: 16px;
 }
 
 .rb-jackpot--bronze .rb-jackpot__label {
@@ -8836,28 +8860,34 @@ blockquote .shape {
     background-image: -o-linear-gradient(TOP, #CA822C, #F6C656 50%, #CA822C);
     background-image: linear-gradient(to bottom,
                 #CA822C, #F6C656 30%, #CA822C, #F6C656);
+    font-size: 16px;
 }
 
 .rb-jackpot--rebuy .rb-jackpot__value {
     border-image-source: linear-gradient(90deg, rgba(185, 0, 225, 1) 0%, rgba(168, 0, 219, 1) 25%, rgba(243, 192, 249, 1) 50%, rgba(104, 0, 131, 1) 75%, rgba(156, 88, 176, 1) 100%);
+    background-color: #333333;
 }
 
 .rb-jackpot--gold .rb-jackpot__value {
     border-image-source: linear-gradient(90deg, rgba(254, 202, 41, 1) 0%, rgba(198, 148, 2, 1) 25%, rgba(254, 246, 102, 1) 50%, rgba(147, 108, 3, 1) 75%, rgba(248, 232, 40, 1) 100%);
+    background-color: #333333;
 }
 
 .rb-jackpot--silver .rb-jackpot__value {
     border-image-source: linear-gradient(90deg, rgba(210, 211, 213, 1) 0%, rgba(160, 161, 165, 1) 25%, rgba(234, 235, 237, 1) 50%, rgba(134, 135, 139, 1) 75%, rgba(221, 221, 221, 1) 100%);
+    background-color: #333333;
 }
 
 .rb-jackpot--bronze .rb-jackpot__value {
     border-image-source: linear-gradient(90deg, rgba(249, 166, 40, 1) 0%, rgba(191, 122, 44, 1) 25%, rgba(248, 198, 103, 1) 50%, rgba(142, 86, 44, 1) 75%, rgba(239, 194, 48, 1) 100%);
+    background-color: #333333;
 }
 
 .virtual-tour {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    border: 10px solid #111111;
 }
 
 @media (min-width:768) and (max-width:992px) {
@@ -8865,5 +8895,9 @@ blockquote .shape {
         width: 90%;
         padding-right: 40px;
     }
+}
+
+.homepage-icons-distance {
+    margin-left: 10px;
 }
 }
