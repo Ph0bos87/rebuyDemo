@@ -1218,6 +1218,8 @@
 .fadeInUp {
     -webkit-animation-name: fadeInUp;
     animation-name: fadeInUp;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @-webkit-keyframes fadeInUpBig {
