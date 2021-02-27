@@ -61,7 +61,7 @@ body {
 
 p {
     margin: 0;
-    padding: 0;
+    padding: 0 0 0 5px;
 }
 
 * {
@@ -1214,7 +1214,7 @@ ol {
     position: absolute;
     left: 40%;
     bottom: -1px;
-    height: 3px;
+    height: 1px;
     width: 20%;
     background: #9e005d;
     content: "";
@@ -9272,5 +9272,20 @@ blockquote .shape {
 .full_width_gallery {
     padding-bottom: 53px;
     margin-top: 19px;
+}
+
+@media (max-width: 468px) {
+    .smaller-headline {
+        font-size: 30px;
+    }
+
+    .hero-area .hero-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+
+.black-bg {
+    background-color: #000000;
 }
 }
