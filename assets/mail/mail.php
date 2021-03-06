@@ -1,4 +1,11 @@
 <?
+if($_POST) {
+ 
+    $to = "kcegur@gmail.com"; // Your email here
+    $subject = 'Message from my website'; // Subject message here
+ 
+}
+
 $name = $_POST{'name'};
 $subject = $_POST{'subject'};
 $email = $_POST{'email'};
@@ -15,7 +22,7 @@ Message: ".$message."
 
 ";
 
-mail ("example@gmail.com" , "New Message", $email_message);
+mail ("kcegur@gmail.com" , "New Message", $email_message);
 header("location: ../../mail-success.html");
 ?>
 
