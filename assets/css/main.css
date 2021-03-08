@@ -9317,7 +9317,7 @@ blockquote .shape {
         position: absolute;
         max-width: 200px;
         background-color: rgba(0, 0, 0, 0.8);
-        padding: 2%;
+        padding: 1%;
         border: 1px solid #111111;
     }
 
@@ -9326,7 +9326,7 @@ blockquote .shape {
         background-color: rgba(0, 0, 0, 0.8);
 
         /* width: 100% */
-        padding: 2%;
+        padding: 1%;
         position: absolute;
         right: 13%;
     }
@@ -9434,7 +9434,7 @@ blockquote .shape {
     }
 
     .smaller-headlineh3 {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .hero-area .hero-text h1 {
