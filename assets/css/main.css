@@ -7923,9 +7923,11 @@ blockquote .shape {
 
 .contact-us .single-info ul li a {
     font-weight: 500;
-    color: #f1d209;
+    background: -webkit-linear-gradient(#f3e59a, #b98912);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     display: inline-block;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .contact-us .single-info ul li a:hover {
