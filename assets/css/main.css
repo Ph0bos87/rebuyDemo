@@ -991,7 +991,7 @@ ol {
     position: relative;
     padding: 70px 0;
     padding-top: 150px;
-    background-image: url('../images/club/RebuyStarsZg_1.jpg');
+    background-image: url('/assets/images/slider/slider_club.jpg');
     background-size: cover;
     background-position: right center;
     background-repeat: no-repeat;
