@@ -9328,8 +9328,7 @@ blockquote .shape {
         /* width: 100% */
         padding: 2%;
         position: absolute;
-        margin-right: auto;
-        right: 10%;
+        right: 13%;
     }
 }
 
@@ -9432,6 +9431,10 @@ blockquote .shape {
 @media (max-width: 468px) {
     .smaller-headline {
         font-size: 28px;
+    }
+
+    .smaller-headlineh3 {
+        font-size: 20px;
     }
 
     .hero-area .hero-text h1 {
