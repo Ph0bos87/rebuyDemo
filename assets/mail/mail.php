@@ -1,11 +1,4 @@
 <?
-if($_POST) {
- 
-    $to = "kcegur@gmail.com"; // Your email here
-    $subject = 'Message from my website'; // Subject message here
- 
-}
-
 $name = $_POST{'name'};
 $subject = $_POST{'subject'};
 $email = $_POST{'email'};
