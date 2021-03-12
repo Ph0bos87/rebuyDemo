@@ -3153,7 +3153,7 @@ ol {
 
 .testimonials .tns-controls {
     position: absolute;
-    bottom: 0px;
+    bottom: 21px;
     z-index: 9;
 }
 
@@ -9024,10 +9024,9 @@ blockquote .shape {
 }
 
 .padding_gallery {
-    height: 490px;
+    height: 450px;
 
     /* padding-bottom: 25px */
-    padding-top: 10px;
 }
 
 @media (min-width:993px) and (max-width:1199px) {
@@ -9038,13 +9037,13 @@ blockquote .shape {
     }
 
     .padding_gallery {
-        height: 415px;
+        height: 390px;
     }
 
     .testimonials .tns-controls {
         position: absolute;
         right: 50%;
-        bottom: 70px;
+        bottom: 93px;
         z-index: 9;
         text-align: center;
         display: inline-block;
@@ -9487,4 +9486,17 @@ blockquote .shape {
     background: -webkit-linear-gradient(#f3e59a, #b98912);
     color: #111;
     border: none;
+}
+
+.mobile-only {
+    position: absolute;
+    right: 50px;
+    width: 150px;
+    text-align: right;
+}
+
+@media (min-width:992px) {
+    .mobile-only {
+        display: none;
+    }
 }

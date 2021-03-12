@@ -1,0 +1,183 @@
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  include_once(/home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wp-fastest-cache/wpFastestCache.php): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-settings.php on line 362
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  include_once(): Failed opening '/home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wp-fastest-cache/wpFastestCache.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/automati6836/vz.rebuystars.hr/wp-settings.php on line 362
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[23-Aug-2019 22:36:18 UTC] PHP Warning:  strpos(): Empty needle in /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php on line 674
+[12-Dec-2019 19:50:07 UTC] PHP Warning:  include(/home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wordpress-seo/vendor/composer/../../frontend/class-frontend.php): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/composer/ClassLoader.php on line 444
+[12-Dec-2019 19:50:07 UTC] PHP Warning:  include(/home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wordpress-seo/vendor/composer/../../frontend/class-frontend.php): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/composer/ClassLoader.php on line 444
+[12-Dec-2019 19:50:07 UTC] PHP Warning:  include(): Failed opening '/home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wordpress-seo/vendor/composer/../../frontend/class-frontend.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/composer/ClassLoader.php on line 444
+[12-Dec-2019 19:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WPSEO_Frontend' not found in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php:19
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(288): initialize_wpseo_front('')
+#1 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home2/automati6836/vz.rebuystars.hr/wp-settings.php(523): do_action('init')
+#4 /home2/automati6836/vz.rebuystars.hr/wp-config.php(97): require_once('/home2/automati...')
+#5 /home2/automati6836/vz.rebuystars.hr/wp-load.php(37): require_once('/home2/automati...')
+#6 /home2/automati6836/vz.rebuystars.hr/wp-blog-header.php(13): require_once('/home2/automati...')
+#7 /home2/automati6836/vz.rebuystars.hr/index.php(17): require('/home2/automati...')
+#8 {main}
+  thrown in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php on line 19
+[26-Feb-2020 21:48:23 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Puc_v4_Plugin_Info' not found in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/boosted-elements-progression/admin/plugin-update-checker/Puc/v4/UpdateChecker.php on line 467
+[05-Mar-2020 21:37:19 UTC] Greška u bazi WordPressa Table 'automati_vz.wp_wpforms_tasks_meta' doesn't exist za upit SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` koji je postavio/la require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[05-Mar-2020 21:37:19 UTC] Greška u bazi WordPressa Table 'automati_vz.wp_wpforms_tasks_meta' doesn't exist za upit SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` koji je postavio/la require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[19-Mar-2020 11:43:28 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[21-May-2020 05:38:25 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/galerija/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[13-Jun-2020 13:42:50 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[23-Jun-2020 20:08:17 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[23-Jun-2020 20:08:17 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[23-Jun-2020 20:08:17 UTC] PHP Warning:  chmod(): No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[23-Jun-2020 20:08:17 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[23-Jun-2020 20:08:17 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[29-Jun-2020 16:37:11 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[29-Jun-2020 16:37:11 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[29-Jun-2020 16:37:11 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[29-Jun-2020 16:37:11 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[07-Jul-2020 07:20:05 UTC] PHP Warning:  chmod(): No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[07-Jul-2020 07:20:05 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[14-Jul-2020 07:32:34 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/ponuda/bar/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[14-Jul-2020 07:32:34 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/ponuda/bar/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[18-Jul-2020 10:51:34 UTC] PHP Warning:  chmod(): No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[18-Jul-2020 10:51:34 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/cabaret/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[25-Jul-2020 18:12:24 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[26-Jul-2020 09:01:42 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Aug-2020 15:14:15 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[15-Aug-2020 08:13:43 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[15-Aug-2020 18:41:29 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[17-Aug-2020 08:15:54 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/home/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/galerija/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/galerija/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/galerija/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/home/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/galerija/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Aug-2020 10:22:21 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[23-Aug-2020 03:18:33 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/nagradne-igre/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[01-Sep-2020 23:32:12 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/cabaret/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Sep-2020 00:46:30 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Sep-2020 00:46:30 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Sep-2020 00:46:30 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Sep-2020 00:46:30 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[21-Sep-2020 08:27:17 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[12-Oct-2020 11:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home2/automati6836/vz.rebuystars.hr/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  throw in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php on line 162
+[12-Oct-2020 11:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home2/automati6836/vz.rebuystars.hr/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  throw in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php on line 162
+[26-Oct-2020 12:32:53 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[05-Nov-2020 12:45:18 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/contact/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[22-Dec-2020 07:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home2/automati6836/vz.rebuystars.hr/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  throw in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php on line 162
+[22-Dec-2020 07:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home2/automati6836/vz.rebuystars.hr/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  throw in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php on line 162
+[22-Dec-2020 07:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home2/automati6836/vz.rebuystars.hr/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/automati6836/vz.rebuystars.hr/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home2/automati6836/vz.rebuystars.hr/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  throw in /home2/automati6836/vz.rebuystars.hr/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php on line 162
+[04-Jan-2021 18:02:45 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/home/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[24-Jan-2021 05:21:29 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[24-Jan-2021 05:21:49 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[15-Feb-2021 21:13:19 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/cabaret/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[17-Feb-2021 11:45:45 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/contact/index-mobile-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[01-Mar-2021 00:19:44 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[01-Mar-2021 00:19:44 UTC] PHP Warning:  copy(/home2/automati6836/vz.rebuystars.hr/wp-content/cache/wp-rocket/vz.rebuystars.hr/promocije/index-https.html_gzip_temp): failed to open stream: No such file or directory in /home2/automati6836/vz.rebuystars.hr/wp-admin/includes/class-wp-filesystem-direct.php on line 309
